@@ -4,7 +4,7 @@
 
 ## Notes
 
-- [C 笔记](./C-note.md)
-- [C++ 笔记](./Cpp-note.md)
-- [Go 笔记](./Go-note.md)
-- [Linux 笔记](./Linux-note.md)
+- [C 笔记](./C/C-note.md)
+- [C++ 笔记](./CPP/Cpp-note.md)
+- [Go 笔记](./Go/Go-note.md)
+- [Linux 笔记](./Linux/Linux-note.md)
