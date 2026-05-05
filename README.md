@@ -1,6 +1,6 @@
 # StudyNotes
 
-个人编程学习笔记，主要记录 C、C++、Go、Linux 和项目实践。
+个人编程学习笔记
 
 ## Notes
 
