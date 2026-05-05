@@ -8,3 +8,4 @@
 - [C++ 笔记](./CPP/Cpp-note.md)
 - [Go 笔记](./Go/Go-note.md)
 - [Linux 笔记](./Linux/Linux-note.md)
+- [SQL 笔记](./SQL/SQL.md)
